@@ -1,0 +1,8 @@
+{
+  "relays": [
+    {"relay": 1, "name": "Relay 1", "pulse_duration": 2},
+    {"relay": 2, "name": "Relay 2", "pulse_duration": 2},
+    {"relay": 3, "name": "Relay 3", "pulse_duration": 2},
+    {"relay": 4, "name": "Relay 4", "pulse_duration": 2}
+  ]
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Relay Control
+Comment=Control USBB-RELAY04 USB relay board
+Exec=python3 /home/alexis/git/relay-board/relay_gui.py
+Path=/home/alexis/git/relay-board
+Terminal=false
+Type=Application
+Icon=preferences-desktop-peripherals
+Categories=Utility;
