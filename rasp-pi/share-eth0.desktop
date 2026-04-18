@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Share Internet to NUC
+Comment=Toggle eth0 internet sharing (Wi-Fi -> NUC)
+Exec=/usr/local/bin/share-eth0 toggle
+Icon=network-wired
+Terminal=false
+Categories=Network;
+StartupNotify=false
